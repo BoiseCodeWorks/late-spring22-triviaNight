@@ -13884,6 +13884,7 @@ textarea.form-control-lg {
   cursor: pointer;
 }
 .selectable:hover:after {
+  filter: invert(1);
   opacity: 0.1;
 }
 .selectable:after {
